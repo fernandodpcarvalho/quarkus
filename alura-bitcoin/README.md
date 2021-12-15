@@ -59,6 +59,9 @@ Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
 
+### Executar containeters (Compose)
+docker-compose up
+
 
 ### MySQL
 docker run --name bitcoin-mysql -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=bitcoin -e MYSQL_USER=bitcoin -e MYSQL_PASSWORD=bitcoin mysql:latest
