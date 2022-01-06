@@ -1,0 +1,6 @@
+br/com/quarkuslambda/TestLambda.class
+br/com/quarkuslambda/StreamLambda.class
+br/com/quarkuslambda/UnusedLambda.class
+br/com/quarkuslambda/ProcessingService.class
+br/com/quarkuslambda/OutputObject.class
+br/com/quarkuslambda/InputObject.class

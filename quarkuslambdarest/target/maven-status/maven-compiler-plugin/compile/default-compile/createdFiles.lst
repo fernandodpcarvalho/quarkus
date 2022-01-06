@@ -1,0 +1,4 @@
+br/com/quarkuslambdarest/GreetingResource.class
+br/com/quarkuslambdarest/GreetingFunction.class
+br/com/quarkuslambdarest/GreetingServlet.class
+br/com/quarkuslambdarest/GreetingVertx.class

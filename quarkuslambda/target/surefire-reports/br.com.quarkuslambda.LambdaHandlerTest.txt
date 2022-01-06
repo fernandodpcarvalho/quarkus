@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.quarkuslambda.LambdaHandlerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.182 s - in br.com.quarkuslambda.LambdaHandlerTest
